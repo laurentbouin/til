@@ -5,12 +5,22 @@
 
 ### Categories 
 
+* [Git](#git)
+* [Java](#java)
 * [Mac](#mac)
+* [Netflix](#netflix)
 
-#### mac 
+#### Git
+
+#### Java
+
+#### Mac 
 
 * [How to reindex spotlight](mac/how-to-reindex.md)
 
+#### Netflix
+
+* [Eureka - Same server / multiple instances](netflix/multiple-instances.md)
 
 ## About
 
