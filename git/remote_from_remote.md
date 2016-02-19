@@ -7,6 +7,6 @@
 
 ### To remove a directory
 
-```dir::: git rm --cached -r mydirectory```
+```git rm --cached -r mydirectory```
 
 
