@@ -12,6 +12,8 @@
 
 #### Git
 
+* [Remove from remote not from local](git/remote_from_remote.md)
+
 #### Java
 
 #### Mac 
