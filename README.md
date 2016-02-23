@@ -13,6 +13,7 @@
 #### Git
 
 * [Remove from remote not from local](git/remote_from_remote.md)
+* [Disable SSL](git/disable_ssl.md)
 
 #### Java
 
