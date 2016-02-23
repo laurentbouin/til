@@ -14,6 +14,7 @@
 
 * [Remove from remote not from local](git/remote_from_remote.md)
 * [Disable SSL](git/disable_ssl.md)
+* [Migrate all tag/branches from one git to another](git/from_one_git_to_another.md)
 
 #### Java
 
