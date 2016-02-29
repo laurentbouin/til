@@ -26,6 +26,11 @@
 
 * [Eureka - Same server / multiple instances](netflix/multiple-instances.md)
 
+#### Miscellaneous
+
+* [Project code names based on greek mythology](misc/project_code_names.md) 
+
+
 ## About
 
 Inspired by
