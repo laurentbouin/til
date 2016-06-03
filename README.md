@@ -18,6 +18,8 @@
 
 #### Java
 
+* [Microservices Resources](microservices/resources.md)
+
 #### Mac 
 
 * [How to reindex spotlight](mac/how-to-reindex.md)
